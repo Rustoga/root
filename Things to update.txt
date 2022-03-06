@@ -1,0 +1,44 @@
+1. Embedding things:
+- youtubes on omansa vaan share- embed jne. 
+
+2. flexbox:
+displayflex, divejä, mieti m
+
+
+3. music: youtube links embedded or song links, text links: spotify, itunes, amazon, bandcamp, tidal
+
+
+
+4. Visuals: 
+>>promovideo autoplay, 
+ Section divider of what I've done, 
+ images, videos, divided into sections
+
+
+
+5. Modeling: 
+Images, movies, client texts..
+>> gridi/flexbox, asiakkaat
+
+
+6. Sections:
+kaipaatko viel erikseen jotakin mikä on sua itteesi?
+
+
+7. Effects: Grey cursor-in, transitions
+
+
+
+
+
+D3- kirjasto hyödyllinen!!!
+
+
+
+html = mostly text
+css: styles, shapes, colors, hovers, 
+javascript: takes elements, effects, ,processing kind of stuff
+react: uses all of those things but allows you to create an app. 
+
+// flexboxi, diviin voi lisätä sekä kuvan että tekstin
+molemmmat pysyy responsiivina samassa 'solussa
